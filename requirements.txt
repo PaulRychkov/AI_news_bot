@@ -1,0 +1,6 @@
+telebot
+requests
+pyodbc
+python-dotenv
+telethon
+asyncio
